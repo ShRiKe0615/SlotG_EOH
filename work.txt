@@ -1,4 +1,0 @@
-1. update Image Id with their name format:("Scatter")
-2. Bonus Game check and return the immediate win value when scatter door occur in
-   group of 3,4 or 5
-3. 
